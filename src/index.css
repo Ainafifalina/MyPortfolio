@@ -3,8 +3,8 @@ html{
 }
 body{
     margin: 0;
-    background: #022c43;
+    background: #02181f;
+    font: 300 14px/24px 'sans-serif';
     overflow: hidden;
     display: block;
-
 }
