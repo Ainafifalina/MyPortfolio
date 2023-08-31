@@ -33,7 +33,7 @@
     "eject": "react-scripts eject",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build npm run start"
   },
   "eslintConfig": {
     "extends": [
@@ -56,6 +56,6 @@
   "devDependencies": {
     "gh-pages": "^6.0.0",
     "node-sass": "^7.0.3"
-  },
-  "homepage": "https://ainafifalina.github.io/MyPortfolio"
+  }
+
 }
