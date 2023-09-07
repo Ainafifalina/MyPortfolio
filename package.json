@@ -1,5 +1,6 @@
 {
-  "name": "My_React",
+  "name": "portfolio",
+  "homepage": "https://ainafifalina.github.io/MyPortfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -33,7 +34,7 @@
     "eject": "react-scripts eject",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build npm run start"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
